@@ -25,10 +25,12 @@ class AdministratorPanelProvider extends PanelProvider
         return $panel
             ->default()
             ->id('administrator')
+            ->brandName('JCPDI FORUM')
+            ->brandLogo(asset('images/logo.png'))
             ->path('administrator')
             ->login()
             ->colors([
-                'primary' => Color::Amber,
+                'primary' => "#EAB88B",
             ])
             ->discoverResources(in: app_path('Filament/Resources'), for: 'App\\Filament\\Resources')
             ->discoverPages(in: app_path('Filament/Pages'), for: 'App\\Filament\\Pages')
