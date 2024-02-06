@@ -4,7 +4,7 @@ module.exports = {
     theme: {
         extend: {
             colors: {
-                primary: {"50":"#eff6ff","100":"#dbeafe","200":"#bfdbfe","300":"#93c5fd","400":"#60a5fa","500":"#3b82f6","600":"#2563eb","700":"#1d4ed8","800":"#1e40af","900":"#513932","950":"#172554"}
+                primary: {"50":"#eff6ff","100":"#dbeafe","200":"#EAB88B","300":"#93c5fd","400":"#60a5fa","500":"#3b82f6","600":"#2563eb","700":"#1d4ed8","800":"#68524D","900":"#513932","950":"#172554"}
               },
             fontFamily: {
                 sans: ['Fatimah Arabic', ...defaultTheme.fontFamily.sans],

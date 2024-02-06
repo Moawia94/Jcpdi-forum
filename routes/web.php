@@ -28,13 +28,10 @@ Route::group(
     ],
     function () {
         Route::get('/', function () {
-            return view('timer');
+            return view('welcome');
         });
         Route::get('/privacy-policy', function () {
             return view('privacy_policy');
-        });
-        Route::get('/home', function () {
-            return view('welcome');
         });
     }
 );

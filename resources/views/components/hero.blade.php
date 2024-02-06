@@ -3,7 +3,7 @@
     <div class="absolute inset-0 py-8 px-4 mx-auto max-w-screen-xl lg:py-16 lg:px-12  items-center justify-center grid grid-cols-3">
     <div class="col-span-2">
         <h1
-            class="font-fatimah mb-4 text-4xl font-extrabold tracking-tight leading-none text-gray-900 md:text-5xl lg:text-4xl dark:text-white">
+            class="font-fatimah mb-4 text-4xl font-extrabold tracking-tight leading-none text-primary-200 md:text-5xl lg:text-4xl ">
             {!!__('hero.h1') !!}</h1>
         <p class="mb-8 text-lg font-normal text-white lg:text-xl "> {!!__('hero.h2') !!} </p>
         <div class="flex flex-col mb-8 lg:mb-16 space-y-4 sm:flex-row sm:space-y-0 sm:space-x-4">
@@ -33,19 +33,22 @@
 
         </div>
     </div>
-        <div class="px-4 mx-auto text-center md:max-w-screen-md lg:max-w-screen-lg lg:px-36">
+    <div class="justify-center items-center px-12">
+        <h1 class="text-xl mb-4 text-white text-center"> {!!__('hero.time_remaining') !!} </h1>
+        <div class="backdrop-blur-sm bg-black/30 w-96 h-24  rounded-xl border border-gray-400">
+            <div class="px-4 mx-auto text-center ">
+                <div class="flex flex-col items-center mt-8 ml-2">
+                    <div x-data="countdown()" x-init="startTimer()" class="text-black text-center">
+                        <div class="text-xl text-white">
+                          <span x-text="time.days"></span> {!!__('hero.day') !!}
+                          <span x-text="time.hours"></span> {!!__('hero.hour') !!}
+                          <span x-text="time.minutes"></span> {!!__('hero.minute') !!}
+                          <span x-text="time.seconds"></span> {!!__('hero.second') !!}
+                        </div>
+                      </div>
+                </div>
+        </div>
 
-            <div class="flex flex-col items-center mt-8 ml-2">
-                <div x-data="countdown()" x-init="startTimer()" class="text-black text-center">
-                    <h1 class="text-6xl mb-4"> {!!__('hero.time_remaining') !!} </h1>
-                    <div class="text-4xl">
-                      <span x-text="time.days"></span> {!!__('hero.day') !!}
-                      <span x-text="time.hours"></span> {!!__('hero.hour') !!}
-                      <span x-text="time.minutes"></span> {!!__('hero.minute') !!}
-                      <span x-text="time.seconds"></span> {!!__('hero.second') !!}
-                    </div>
-                  </div>
-            </div>
             <script>
                 function countdown() {
                   return {
@@ -65,5 +68,9 @@
                 }
               </script>
         </div>
+        <div>
+
+        </div>
+    </div>
     </div>
 </section>
