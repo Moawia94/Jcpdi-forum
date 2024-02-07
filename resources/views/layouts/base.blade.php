@@ -24,7 +24,7 @@
 
     @yield('body')
 
-
+    @extends('layouts.footer')
     @livewireScripts
 </body>
 

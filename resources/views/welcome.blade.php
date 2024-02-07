@@ -6,5 +6,9 @@
 {{-- <x-testimonial /> --}}
 <x-sec1 />
 <x-sec2 />
-{{-- @extends('layouts.footer') --}}
+<x-sec3 />
+<x-sec4 />
+<x-sec5 />
+<x-sec6 />
+
 @endsection

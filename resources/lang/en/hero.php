@@ -20,5 +20,18 @@ return [
     'sec-2-content-3' => 'Communicating with investors to improve the investment environment.',
     'sec-2-content-4' => 'Highlighting the investment opportunities available in Jazan City for basic and transformational industries.',
     'sec-2-content-5' => 'Exchanging knowledge and experiences in all sectors.',
+    'sec-3-title' => 'Forum agenda',
+    'sec-3-content-1' => 'Speech of His Excellency the President of the Royal Commission for Jubail and Yanbu, Eng. Khaled Al-Salem',
+    'sec-3-content-2' => 'Speech by the CEO of Jazan City for Basic and Transformative Industries, Dr. Hussein Al-Fadhili',
+    'sec-3-content-3' => 'Film "After the Meeting"',
+    'sec-3-content-4' => 'Dialogue session',
+    'sec-3-content-5' => 'Dinner.',
+    'sec-4-title' => 'The first investor forum',
+    'sec-4-content-1' => 'In January 2023, Jazan City for Basic and Transformative Industries held the first meeting for investors, which brought together the city’s administration with a group of its investors. The meeting included a dialogue session that resulted in many development outcomes to provide a stimulating investment environment.',
+    'sec-5-content' => 'We look forward to your presence at the Investors Forum in its second edition in Jazan City for Basic and Transformative Industries. If you have any inquiries, please contact us via email.',
+    'sec-6-content' => 'We look forward to seeing you at the forum and your participation in building a fruitful strategic partnership.
+
+    see you soon',
+    'rights' => 'All Rights Reserved © 2024 JCPDI FORUM.',
 
 ];
