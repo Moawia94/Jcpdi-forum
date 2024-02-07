@@ -53,7 +53,7 @@
                 function countdown() {
                   return {
                     time: { days: 0, hours: 0, minutes: 0, seconds: 0 },
-                    targetDate: new Date('2024-02-21'),
+                    targetDate: new Date('2024-02-19'),
 
                     startTimer() {
                       setInterval(() => {

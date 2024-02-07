@@ -34,4 +34,7 @@ return [
     see you soon',
     'rights' => 'All Rights Reserved © 2024 JCPDI FORUM.',
 
+    'error' => 'Sorry, please select attendance status',
+    'success' => 'The data has been saved successfully. Thank you',
+    'errname' => 'This field is required',
 ];

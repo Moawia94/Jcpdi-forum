@@ -1,14 +1,14 @@
 <?php
 
-namespace App\Filament\Resources\VisitorsResource\Pages;
+namespace App\Filament\Resources\EscortResource\Pages;
 
-use App\Filament\Resources\VisitorsResource;
+use App\Filament\Resources\EscortResource;
 use Filament\Actions;
 use Filament\Resources\Pages\ListRecords;
 
-class ListVisitors extends ListRecords
+class ListEscorts extends ListRecords
 {
-    protected static string $resource = VisitorsResource::class;
+    protected static string $resource = EscortResource::class;
 
     protected function getHeaderActions(): array
     {

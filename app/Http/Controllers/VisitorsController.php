@@ -2,13 +2,13 @@
 
 namespace App\Http\Controllers;
 
-use App\Models\Visitors;
+use App\Models\Visitor;
 use Illuminate\Http\Request;
 
 class VisitorsController extends Controller
 {
     public function showDataByEmail($email){
-        $visitor = Visitors::where('email' , $email)->first();
+        $visitor = Visitor::where('email' , $email)->first();
         if(! $visitor){
             return ('erro');
         }
