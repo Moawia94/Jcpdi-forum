@@ -28,7 +28,7 @@ return [
     'sec-3-content-4' => 'A dialogue session to exchange knowledge and experiences and express opinions.',
     'sec-3-content-5' => 'Dinner.',
     'sec-4-title' => 'The first investor forum',
-    'sec-4-content-1' => 'In January 2023, JCPDI organized the first edition of the Investor Forum. This yearly event brings together the management team of the Royal Commission, along with both early and recent investors in JCPDI. During the conference, an open dialogue session took place, enriched by insights from industry experts. Looking ahead to February 2024, the city is preparing for its second Investor Meeting. The agenda includes revisiting previous topics and addressing any unresolved challenges faced by investors.',
+    'sec-4-content-1' => 'In January 2023, JCPDI held the first meeting for investors, which brought together the city’s administration with a group of its investors. The meeting included a dialogue session that resulted in many development outcomes to provide a stimulating investment environment.',
     'sec-5-content' => 'We eagerly anticipate your participation in the second edition of the JCPDI Investor Forum. Should you have any further inquiries or specific requests, please feel free to reach out to us via',
     'sec-6-content' => 'We look forward to meeting you.
     See you soon!',
