@@ -34,7 +34,7 @@
         </div>
     </div>
 
-    <div class="justify-center items-center  px-12 md:px-0">
+    <div class="justify-center items-center  px-12 md:px-0 invisible md:visible">
         <h1 class="text-xl mb-4 text-white text-center flex justify-center"> {!!__('hero.time_remaining') !!} </h1>
         <div class="backdrop-blur-sm bg-black/30 w-96 h-18  rounded-xl border border-gray-400">
             <div class="px-2 py-4 mx-auto text-center ">
