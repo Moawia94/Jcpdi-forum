@@ -6,7 +6,7 @@
 
 
         </div>
-        <div class="   absolute  top-0 ltr:right-0 rtl:left-0">
+        <div class="invisible md:visible absolute  top-0 ltr:right-0 rtl:left-0">
             <img src="svg/shap-1.svg" alt="mockup " class="h-screen ltr:scale-x-[-1]">
         </div>
     </div>

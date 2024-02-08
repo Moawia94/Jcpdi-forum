@@ -29,7 +29,7 @@ class Invitation extends Mailable implements ShouldQueue
     public function envelope(): Envelope
     {
         return new Envelope(
-            from: new MailablesAddress('jeffrey@example.com', 'Jeffrey Way'),
+            from: new MailablesAddress('invitation@jcpdi-forum.com', 'JCPDI FORUM'),
             // to: $this->email,
             subject: 'Invitation',
         );

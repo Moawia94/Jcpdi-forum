@@ -4,11 +4,11 @@
             {!!__('hero.sec-3-title') !!}
         </h1>
         <div class=" md:grid md:grid-cols-2 justify-center items-center py-12 text-white text-sm md:text-xl">
-            <div class=" flex text-4xl ltr:text-3xl items-center justify-center">
+            <div class=" flex text-xl md:text-4xl ltr:text-xl  ltr:pl-6 md:ltr:pl-0 md:ltr:text-3xl items-center justify-center">
                 <img src="svg/shap-4.svg" alt="" class="h-24 -ml-16 ltr:-mr-10 ">
                 {!!__('hero.sec-3-content-1') !!}
             </div>
-            <div class=" flex text-4xl ltr:text-3xl items-center justify-center">
+            <div class=" flex text-xl md:text-4xl ltr:text-xl md:ltr:text-3xl items-center justify-center">
                 <img src="svg/shap-4.svg" alt="" class="h-24 -ml-16 ltr:-mr-10 ">
                 {!!__('hero.sec-3-content-2') !!}
             </div>
@@ -16,15 +16,15 @@
         </div>
         <div class=" md:grid md:grid-cols-3 justify-center items-center py-12 text-white text-sm md:text-xl">
 
-            <div class="text-center flex text-4xl ltr:text-3xl items-center justify-center">
+            <div class="text-center flex text-xl md:text-4xl ltr:text-xl md:ltr:text-3xl items-center justify-center">
                 <img src="svg/shap-4.svg" alt="" class="h-16 -ml-8 ltr:-mr-10 ">
                 {!!__('hero.sec-3-content-3') !!}
             </div>
-            <div class="text-center flex text-4xl ltr:text-3xl items-center justify-center">
+            <div class="text-center flex text-xl md:text-4xl ltr:text-xl md:ltr:text-3xl items-center justify-center">
                 <img src="svg/shap-4.svg" alt="" class="h-16 -ml-8 ltr:-mr-10 ">
                 {!!__('hero.sec-3-content-4') !!}
             </div>
-            <div class="text-center flex text-4xl ltr:text-3xl items-center justify-center">
+            <div class="text-center flex text-xl md:text-4xl ltr:text-xl md:ltr:text-3xl items-center justify-center">
                 <img src="svg/shap-4.svg" alt="" class="h-16 -ml-8 ltr:-mr-10 ">
                 {!!__('hero.sec-3-content-5') !!}
             </div>

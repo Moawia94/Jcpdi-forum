@@ -41,11 +41,15 @@ Route::get('en/attendence/{input}',AttendVisitor::class);
 
 
 
-// Route::get('/mail', function () {
+Route::get('/mail', function () {
 
-//     foreach (['taylor@example.com', 'dries@example.com'] as $recipient) {
-//         Mail::to($recipient)->send(new Invitation());
-//     }
+    foreach (['thmawia@ymail.com', ] as $recipient) {
+        Mail::to($recipient)->send(new Invitation());
+    }
 
-//     return view('welcome');
-// });
+    return view('welcome');
+});
+
+Route::get('/invitation', function () {
+    return view('emails.invitation');
+});
