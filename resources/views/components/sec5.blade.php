@@ -5,6 +5,13 @@
         <div class="text-white text-lg md:text-4xl py-12 text-center">
             <p> {!!__('hero.sec-5-content') !!} </p>
         </div>
-
+        <div class=" md:grid md:grid-cols-2 justify-center items-center py-12 text-white text-sm md:text-xl">
+            <div class="flex justify-center">
+                <span><img src="svg/icon-call.svg" alt="" class="h-8 w-8 mx-3"></span><h3>+9661234567</h3>
+            </div>
+            <div class="flex justify-center">
+                <span><img src="svg/icon-mail.svg" alt="" class="h-8 w-8 mx-3"></span><h3>info@jcpdi-forum.com</h3>
+            </div>
+        </div>
     </div>
 </section>

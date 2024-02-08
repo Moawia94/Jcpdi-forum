@@ -1,4 +1,4 @@
-<section class="bg-primary-900 relative bg-cover" style="background-image: url('/svg/shap-5.svg');">
+<section id="gols" class="bg-primary-900 relative bg-cover" style="background-image: url('/svg/shap-5.svg');">
     <div class=" gap-8 items-center py-8 px-4 mx-auto max-w-screen-xl xl:gap-16 md:grid md:grid-cols-2 sm:py-16 lg:px-6">
         <img class="w-full" src="svg/shap-2.svg" alt="dashboard image" class="">
         <div class="mt-4 md:mt-0">

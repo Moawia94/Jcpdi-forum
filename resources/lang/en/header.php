@@ -2,7 +2,7 @@
 
 return [
     'title' => 'Annual Investor Forum, Jazan',
-    'home' => 'home',
-    'goals' => 'Event Goals',
-    'Meeting' => 'Event Program'
+    'home' => 'About The Forum',
+    'goals' => 'Objectives of the Forum',
+    'Meeting' => 'Program'
 ];

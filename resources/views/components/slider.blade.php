@@ -20,7 +20,6 @@
             </div>
         </div>
 
-
     </div>
     <!-- Slider indicators -->
     <div class="flex -translate-x-1/2 space-x-3 rtl:space-x-reverse bottom-4 left-1/2">
