@@ -1,6 +1,6 @@
-<section class="bg-primary-900 relative top-0 h-screen flex justify-center items-center">
-    <img src="/images/hero-bg.png" class="w-full">
-    <div class="absolute inset-0 py-8 px-12 mx-auto max-w-screen-xl lg:py-16   items-center justify-center grid gird-cols-1 md:grid-cols-3">
+<section class="bg-primary-900  top-0 h-screen flex justify-center items-center bg-cover" style="background-image: url('/images/hero-bg.png');">
+    {{-- <img src="/images/hero-bg.png" class="w-full"> --}}
+    <div class=" inset-0 py-8 px-12 mx-auto max-w-screen-xl lg:py-16   items-center justify-center grid gird-cols-1 md:grid-cols-3">
     <div class="col-span-2">
         <h1
             class="font-fatimah mb-4 text-xl px-12 md:px-0 pt-20 md:pt-0 font-extrabold tracking-tight leading-none text-primary-200 md:text-5xl lg:text-4xl ">
@@ -34,7 +34,7 @@
         </div>
     </div>
 
-    <div class="justify-center items-center  px-12 md:px-0 invisible md:visible">
+    <div class="justify-center items-center  px-12 md:px-0 ">
         <h1 class="text-xl mb-4 text-white text-center flex justify-center"> {!!__('hero.time_remaining') !!} </h1>
         <div class="backdrop-blur-sm bg-black/30 w-96 h-18  rounded-xl border border-gray-400">
             <div class="px-2 py-4 mx-auto text-center ">
