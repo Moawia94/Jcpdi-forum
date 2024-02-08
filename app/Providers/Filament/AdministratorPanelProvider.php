@@ -27,7 +27,7 @@ class AdministratorPanelProvider extends PanelProvider
             ->default()
             ->id('administrator')
             ->brandName('JCPDI FORUM')
-            ->brandLogo(asset('images/logo.png'))
+            ->brandLogo(asset('svg/logo.svg'))
             ->path('administrator')
             ->login()
             ->colors([
