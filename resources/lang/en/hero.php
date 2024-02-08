@@ -8,7 +8,7 @@ return [
     'hour' => 'Hour',
     'minute' => 'Minute',
     'second' => 'Second',
-    'event-date' => 'February 21, 2024',
+    'event-date' => 'February 19, 2024',
     'event-time' => '5pm until 8pm',
     'event-location' => 'Jazan - Grand Millennium Hotel',
     'about-title' => 'About The second annual investors in Jazan',
