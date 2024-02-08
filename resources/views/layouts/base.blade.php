@@ -7,7 +7,7 @@
     <title>{!!__('header.title') !!}</title>
 
     <!-- Favicon -->
-    <link rel="shortcut icon" href="{{ url(asset('Fav.ico')) }}">
+    <link rel="shortcut icon" href="{{ url(asset('Fav.svg')) }}">
 
     <!-- Fonts -->
     <link rel="stylesheet" href="https://rsms.me/inter/inter.css">
