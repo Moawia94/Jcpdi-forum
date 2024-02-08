@@ -1,6 +1,6 @@
 <section class="bg-primary-900 relative top-0  h-screen flex justify-center items-center">
     <img src="/images/hero-bg.png" class="w-full">
-    <div class="absolute inset-0 py-8 px-4 mx-auto max-w-screen-xl lg:py-16 lg:px-12  items-center justify-center grid gird-cols-1 md:grid-cols-3">
+    <div class="absolute inset-0 py-8 px-12 mx-auto max-w-screen-xl lg:py-16   items-center justify-center grid gird-cols-1 md:grid-cols-3">
     <div class="col-span-2">
         <h1
             class="font-fatimah mb-4 text-xl pt-20 md:pt-0 font-extrabold tracking-tight leading-none text-primary-200 md:text-5xl lg:text-4xl ">
