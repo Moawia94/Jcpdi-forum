@@ -2,7 +2,7 @@
 
 return [
     'h1' => 'The 2nd Investor Forum in Jazan City for Primary and Downstream Industries',
-    'h2' => 'In January 2023, JCPDI organized the first edition of the Investor Forum. This yearly event brings together the management team of the Royal Commission, along with both early and recent investors in JCPDI. During the conference, an open dialogue session took place, enriched by insights from industry experts. Looking ahead to February 2024, the city is preparing for its second Investor Meeting. The agenda includes revisiting previous topics and addressing any unresolved challenges faced by investors.',
+    'h2' => 'As an extension of the initiative of His Excellency the President of the Royal Commission for Jubail and Yanbu, Engineer Khalid bin Mohammed Al-Salem, to build bridges of communication with success partners, JCPDI, we invite you to attend the Investors Forum in its second edition, which aims to discuss challenges and opportunities and enhance cooperation and investment opportunities in all sectors.',
     'time_remaining' => 'Remaining until the event',
     'day' => 'Day',
     'hour' => 'Hour',
