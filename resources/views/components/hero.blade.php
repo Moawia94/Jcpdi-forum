@@ -1,4 +1,4 @@
-<section class="bg-primary-900 relative top-0   h-full flex justify-center items-center">
+<section class="bg-primary-900 relative top-0 h-screen flex justify-center items-center">
     <img src="/images/hero-bg.png" class="w-full">
     <div class="absolute inset-0 py-8 px-12 mx-auto max-w-screen-xl lg:py-16   items-center justify-center grid gird-cols-1 md:grid-cols-3">
     <div class="col-span-2">
