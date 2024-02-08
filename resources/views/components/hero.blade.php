@@ -3,7 +3,7 @@
     <div class=" inset-0 py-8 px-12 mx-auto max-w-screen-xl lg:py-16   items-center justify-center grid gird-cols-1 md:grid-cols-3">
     <div class="col-span-2">
         <h1
-            class="font-fatimah mb-4 text-xl px-12 md:px-0 pt-20 md:pt-0 font-extrabold tracking-tight leading-none text-primary-200 md:text-5xl lg:text-4xl ">
+            class="font-fatimah mb-4 text-xl px-12 md:px-0 pt-20 md:pt-0 font-extrabold tracking-tight leading-none text-primary-200 md:text-6xl lg:text-6xl ">
             {!!__('hero.h1') !!}</h1>
         <p class="mb-8 text-lg px-12 md:px-0 font-normal text-white lg:text-xl "> {!!__('hero.h2') !!} </p>
         <div class="flex flex-col mb-8 lg:mb-16 space-y-4 sm:flex-row sm:space-y-0 sm:space-x-4">

@@ -6,7 +6,7 @@
         <div class="w-full bg-white rounded-lg shadow dark:border md:mt-0 sm:max-w-xl xl:p-0 dark:bg-gray-800 dark:border-gray-700">
             <div class="p-6 space-y-4 md:space-y-6 sm:p-8">
                 <h1 class="text-xl  leading-tight tracking-tight text-gray-900 md:text-2xl dark:text-white">
-                {!!__('form.confirm') !!} <span class="font-bold"> {{$visitor->name}} </span>
+                {!!__('form.confirm') !!} <span class="font-bold"> {{$visitor->company}} </span>
                 </h1>
                 {{-- <h2 class="text-l  leading-tight tracking-tight text-gray-900 md:text-2xl dark:text-white">
                     Please Confirm Your Attendnce
@@ -97,7 +97,10 @@
 
                     </div>
 
+                    @if ($removeBtn == 'no')
                     <div wire:click='addEscort'  class="focus:outline-none text-white bg-yellow-400 hover:bg-yellow-500 focus:ring-4 focus:ring-yellow-300 font-medium rounded-lg text-sm px-5 py-2.5 me-2 mb-2 w-40 ">{!!__('form.add') !!}</div>
+                    @endif
+
                     @if (session()->has('message'))
                     <div
                         class="alert alert-success flex items-center p-4 mb-4 text-sm text-green-800 border border-green-300 rounded-lg bg-green-50 dark:bg-gray-800 dark:text-green-400 dark:border-green-800">

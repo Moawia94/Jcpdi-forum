@@ -24,6 +24,7 @@ class AttendVisitor extends Component
     public $mobile;
     public $yes;
     public $no;
+    public $removeBtn = 'no';
     protected $rules = [
         'name' => 'required|min:5',
         'email' => 'required|email',
@@ -94,6 +95,7 @@ class AttendVisitor extends Component
     $escort->mobile = $this->mobile;
     $escort->visitor_id = $this->visitor->id;
     $escort->save();
+    $this->removeBtn = 'yes';
     $this->reset(['name','email','mobile','job']);
 
  }
