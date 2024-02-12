@@ -97,9 +97,10 @@
 
                     </div>
 
-                    @if ($removeBtn == 'no')
+
                     <div wire:click='addEscort'  class="focus:outline-none text-white bg-yellow-400 hover:bg-yellow-500 focus:ring-4 focus:ring-yellow-300 font-medium rounded-lg text-sm px-5 py-2.5 me-2 mb-2 w-40 ">{!!__('form.add') !!}</div>
-                    @endif
+                    {{-- @if ($removeBtn == 'no')
+                    @endif --}}
 
                     @if (session()->has('message'))
                     <div

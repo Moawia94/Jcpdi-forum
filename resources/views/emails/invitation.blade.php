@@ -247,7 +247,7 @@
 <tr>
 <td class="pad" style="width:100%;">
 <div align="center" class="alignment" style="line-height:10px">
-<div style="max-width: 600px;"><a href="https//jcpdi-form.com" style="outline:none" tabindex="-1" target="_blank"><img src="images/mail-text_1.svg" style="display: block; height: auto; border: 0; width: 100%;" width="600"/></a></div>
+<div style="max-width: 600px;"><a href="http://jcpdiforum.test/ar/attendence/{{$info}}" style="outline:none" tabindex="-1" target="blank"><img src="images/mail-text_1.svg" style="display: block; height: auto; border: 0; width: 100%;" width="600"/></a></div>
 </div>
 </td>
 </tr>

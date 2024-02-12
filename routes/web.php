@@ -44,7 +44,7 @@ Route::get('en/attendence/{input}',AttendVisitor::class);
 Route::get('/mail', function () {
 
     foreach (['thmawia@ymail.com', ] as $recipient) {
-        Mail::to($recipient)->send(new Invitation());
+        Mail::to($recipient)->send(new Invitation($recipient));
     }
 
     return view('welcome');
