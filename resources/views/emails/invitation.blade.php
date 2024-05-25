@@ -110,7 +110,7 @@
 <tr>
 <td class="pad" style="width:100%;padding-right:0px;padding-left:0px;">
 <div align="center" class="alignment" style="line-height:10px">
-<div style="max-width: 160px;"><img src="images/mail-logo-1.svg" style="display: block; height: auto; border: 0; width: 100%;" width="160"/></div>
+<div style="max-width: 160px;"><img src="https://jcpdi-forum.com/images/mail-logo-1.svg" style="display: block; height: auto; border: 0; width: 100%;" width="160"/></div>
 </div>
 </td>
 </tr>
@@ -121,7 +121,7 @@
 <tr>
 <td class="pad" style="width:100%;padding-right:0px;padding-left:0px;">
 <div align="center" class="alignment" style="line-height:10px">
-<div style="max-width: 120px;"><img src="images/mail-50-logo.svg" style="display: block; height: auto; border: 0; width: 100%;" width="120"/></div>
+<div style="max-width: 120px;"><img src="https://jcpdi-forum.com/images/mail-50-logo.svg" style="display: block; height: auto; border: 0; width: 100%;" width="120"/></div>
 </div>
 </td>
 </tr>
@@ -132,7 +132,7 @@
 <tr>
 <td class="pad" style="width:100%;">
 <div align="center" class="alignment" style="line-height:10px">
-<div style="max-width: 200px;"><img src="images/mail-rc-logo.svg" style="display: block; height: auto; border: 0; width: 100%;" width="200"/></div>
+<div style="max-width: 200px;"><img src="https://jcpdi-forum.com/images/mail-rc-logo.svg" style="display: block; height: auto; border: 0; width: 100%;" width="200"/></div>
 </div>
 </td>
 </tr>
@@ -164,7 +164,7 @@
 <tr>
 <td class="pad" style="width:100%;">
 <div align="center" class="alignment" style="line-height:10px">
-<div style="max-width: 600px;"><img src="images/mail-text.svg" style="display: block; height: auto; border: 0; width: 100%;" width="600"/></div>
+<div style="max-width: 600px;"><img src="https://jcpdi-forum.com/images/mail-text.svg" style="display: block; height: auto; border: 0; width: 100%;" width="600"/></div>
 </div>
 </td>
 </tr>
@@ -189,7 +189,7 @@
 <tr>
 <td class="pad" style="width:100%;">
 <div align="center" class="alignment" style="line-height:10px">
-<div style="max-width: 130px;"><img src="images/004.svg" style="display: block; height: auto; border: 0; width: 100%;" width="130"/></div>
+<div style="max-width: 130px;"><img src="https://jcpdi-forum.com/images/004.svg" style="display: block; height: auto; border: 0; width: 100%;" width="130"/></div>
 </div>
 </td>
 </tr>
@@ -200,7 +200,7 @@
 <tr>
 <td class="pad" style="width:100%;">
 <div align="center" class="alignment" style="line-height:10px">
-<div style="max-width: 130px;"><img src="images/003.svg" style="display: block; height: auto; border: 0; width: 100%;" width="130"/></div>
+<div style="max-width: 130px;"><img src="https://jcpdi-forum.com/images/003.svg" style="display: block; height: auto; border: 0; width: 100%;" width="130"/></div>
 </div>
 </td>
 </tr>
@@ -211,7 +211,7 @@
 <tr>
 <td class="pad" style="width:100%;">
 <div align="center" class="alignment" style="line-height:10px">
-<div style="max-width: 130px;"><img src="images/002.svg" style="display: block; height: auto; border: 0; width: 100%;" width="130"/></div>
+<div style="max-width: 130px;"><img src="https://jcpdi-forum.com/images/002.svg" style="display: block; height: auto; border: 0; width: 100%;" width="130"/></div>
 </div>
 </td>
 </tr>
@@ -222,7 +222,7 @@
 <tr>
 <td class="pad" style="width:100%;">
 <div align="center" class="alignment" style="line-height:10px">
-<div style="max-width: 130px;"><img src="images/001.svg" style="display: block; height: auto; border: 0; width: 100%;" width="130"/></div>
+<div style="max-width: 130px;"><img src="https://jcpdi-forum.com/images/001.svg" style="display: block; height: auto; border: 0; width: 100%;" width="130"/></div>
 </div>
 </td>
 </tr>
@@ -247,7 +247,7 @@
 <tr>
 <td class="pad" style="width:100%;">
 <div align="center" class="alignment" style="line-height:10px">
-<div style="max-width: 600px;"><a href="http://jcpdiforum.test/ar/attendence/{{$info}}" style="outline:none" tabindex="-1" target="blank"><img src="images/mail-text_1.svg" style="display: block; height: auto; border: 0; width: 100%;" width="600"/></a></div>
+<div style="max-width: 600px;"><a href="https://jcpdi-forum.com/ar/attendence/m.ahmed@spcc.com.sa" style="outline:none" tabindex="-1" target="blank"><img src="https://jcpdi-forum.com/images/mail-text_1.svg" style="display: block; height: auto; border: 0; width: 100%;" width="600"/></a></div>
 </div>
 </td>
 </tr>
@@ -272,7 +272,7 @@
 <tr>
 <td class="pad" style="width:100%;">
 <div align="center" class="alignment" style="line-height:10px">
-<div style="max-width: 590px;"><img src="images/mail-logo.svg" style="display: block; height: auto; border: 0; width: 100%;" width="590"/></div>
+<div style="max-width: 590px;"><img src="https://jcpdi-forum.com/images/mail-logo.svg" style="display: block; height: auto; border: 0; width: 100%;" width="590"/></div>
 </div>
 </td>
 </tr>

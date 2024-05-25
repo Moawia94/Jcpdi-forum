@@ -43,8 +43,8 @@ Route::get('en/attendence/{input}',AttendVisitor::class);
 
 Route::get('/mail', function () {
 
-    foreach (['thmawia@ymail.com', ] as $recipient) {
-        Mail::to($recipient)->send(new Invitation($recipient));
+    foreach (['m.ahmed@spcc.com.sa','thmawia94@gmail.com' ] as $recipient) {
+        Mail::to($recipient)->send(new Invitation());
     }
 
     return view('welcome');

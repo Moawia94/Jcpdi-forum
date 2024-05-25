@@ -14,13 +14,13 @@ use Illuminate\Queue\SerializesModels;
 class Invitation extends Mailable implements ShouldQueue
 {
     use Queueable, SerializesModels;
-    public $info;
+    // public $info;
     /**
      * Create a new message instance.
      */
-    public function __construct($info)
+    public function __construct()
     {
-        $this->info = $info;
+        // $this->info = $info;
     }
 
     /**
